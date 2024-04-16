@@ -1,0 +1,16 @@
+Things to build Zeno mvp:
+- Reactjs frontend (Can use threejs to make pretty)
+- News article scraping (google news w Python and pygooglenews)
+- Llama2 read scraped data
+- Llama2 summarize and present topics
+- Llama2 chatbot functionality
+
+
+
+
+
+future developments:
+- user personalization for different topics
+- monetization
+
+
