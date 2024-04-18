@@ -13,7 +13,7 @@ export default function Home() {
       </div>
       <div className="text-center">
         <h1 className="animate-pulse m-10 font-mono text-white sm:text-7xl md:text-8xl lg:text-9xl">Modernized <br></br>News.</h1>
-        <h4 className="m-5 mx-auto max-w-[50%] font-mono">Nobody has time to sift through biased traditional news sources. Zeno quickly provides everything you need in an LLM-powered chatbot format, letting you ask questions and stay up-to-date on things you actually care about.</h4>
+        <h4 className="m-5 mx-auto max-w-[50%] font-mono">Nobody has time to sift through biased traditional news sources. Zeno scans the internet for you and quickly provides everything you need in an LLM-powered chatbot format, letting you ask questions, ask for sources, and stay up-to-date on things you actually care about.</h4>
       </div>
     </main>
   );
