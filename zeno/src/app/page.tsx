@@ -19,9 +19,11 @@ export default function Home() {
           height={37}
         />
         <h1 className="font-mono my-20">Zeno: We're "breaking news!"<br></br> You: clever. -_-</h1>
-        <a href="" className="font-mono m-20 absolute top-0 right-0 inline hover:underline">Demo</a>
-        <a href="" className="font-mono m-20 absolute top-0 right-16 inline hover:underline">Download</a>
-
+        <div className="absolute top-20 right-16">
+        <a href="" className="font-mono mx-3 inline rounded p-2 border bg-slate-400	hover:shadow-lg ">Download</a>
+        <a href="" className="font-mono mx-3 inline rounded p-2 hover:border">Demo</a>
+        <a href="" className="font-mono mx-3 inline rounded p-2 hover:border">About</a>
+        </div>
       </div>
       <div className="text-center">
         <h1 className="animate-pulse m-10 font-mono text-white sm:text-7xl md:text-8xl lg:text-9xl">Modernized <br></br>News.</h1>
