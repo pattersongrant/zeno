@@ -1,15 +1,27 @@
 import Image from "next/image";
+//function Demo() {
+//  return (
+//    
+//
+//  )
+//
+//}
+
 
 export default function Home() {
   return (
     <main className="">
-      <div className="">
+      <div className="flex">
         <Image className="m-10 hover:invert duration-500 shadow-[0_20px_50px_rgba(0,_0,_0,_0.7)]"
           src="/z.png"
           alt="Zeno Logo"
           width={120}
           height={37}
         />
+        <h1 className="font-mono my-20">Zeno: We're "breaking news!"<br></br> You: clever. -_-</h1>
+        <a href="" className="font-mono m-20 absolute top-0 right-0 inline hover:underline">Demo</a>
+        <a href="" className="font-mono m-20 absolute top-0 right-16 inline hover:underline">Download</a>
+
       </div>
       <div className="text-center">
         <h1 className="animate-pulse m-10 font-mono text-white sm:text-7xl md:text-8xl lg:text-9xl">Modernized <br></br>News.</h1>
