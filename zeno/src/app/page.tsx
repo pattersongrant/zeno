@@ -13,7 +13,7 @@ export default function Home() {
           height={37}
         />
         </a>
-        <h1 className="font-mono my-20">Zeno: We're "breaking news!" Literally!<br></br> You: clever. -_-</h1>
+        <h1 className="font-mono my-20">Zeno: We&apos;re &quot;breaking news!&quot; Literally!<br></br> You: clever. -_-</h1>
         <div className="absolute top-20 right-16">
         <a href="/waitlist" className="font-mono mx-3 inline rounded p-2 border bg-slate-400	hover:shadow-lg ">Download</a>
         <a href="/waitlist" className="font-mono mx-3 inline rounded p-2 hover:border">Demo</a>
