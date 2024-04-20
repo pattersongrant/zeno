@@ -1,7 +1,7 @@
 import Image from "next/image";
 
 
-export default function Home() {
+export default function Waitlist() {
   return (
     <main className="">
       <div className="flex">
@@ -13,7 +13,6 @@ export default function Home() {
           height={37}
         />
         </a>
-        <h1 className="font-mono my-20">Zeno: We're "breaking news!" Literally!<br></br> You: clever. -_-</h1>
         <div className="absolute top-20 right-16">
         <a href="/waitlist" className="font-mono mx-3 inline rounded p-2 border bg-slate-400	hover:shadow-lg ">Download</a>
         <a href="" className="font-mono mx-3 inline rounded p-2 hover:border">Demo</a>
@@ -21,8 +20,7 @@ export default function Home() {
         </div>
       </div>
       <div className="text-center">
-        <h1 className="animate-pulse m-10 font-mono text-white sm:text-7xl md:text-8xl lg:text-9xl">Modernized <br></br>News.</h1>
-        <h4 className="m-5 mx-auto max-w-[50%] font-mono">Nobody has time to sift through biased traditional news sources. Zeno scans the internet for you and quickly provides everything you need in an LLM-powered chatbot format, letting you ask questions, ask for sources, and stay up-to-date on things you actually care about.</h4>
+        <h4 className="m-5 mx-auto max-w-[50%] font-mono">Zeno is still in development. Please enter the waitlist so you can know when it is ready.</h4>
       </div>
     </main>
   );
