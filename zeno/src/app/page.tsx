@@ -17,7 +17,7 @@ export default function Home() {
         <div className="absolute top-20 right-16">
         <a href="/waitlist" className="font-mono mx-3 inline rounded p-2 border bg-slate-400	hover:shadow-lg ">Download</a>
         <a href="/waitlist" className="font-mono mx-3 inline rounded p-2 hover:border">Demo</a>
-        <a href="" className="font-mono mx-3 inline rounded p-2 hover:border">About</a>
+        <a href="/waitlist" className="font-mono mx-3 inline rounded p-2 hover:border">About</a>
         </div>
       </div>
       <div className="text-center">
