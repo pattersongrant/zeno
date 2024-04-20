@@ -21,6 +21,7 @@ export default function Waitlist() {
       </div>
       <div className="text-center">
         <h4 className="m-5 mx-auto max-w-[50%] font-mono">Zeno is still in development. Please enter the waitlist so you can know when it is ready.</h4>
+        <iframe className="mx-auto"src="https://docs.google.com/forms/d/e/1FAIpQLSdT05MIyXZK0JYH3uX6dVRBg_xnWa0hVdYvaqzVAaygFaAqyg/viewform?embedded=true" width="640" height="450">Loading…</iframe>      
       </div>
     </main>
   );
