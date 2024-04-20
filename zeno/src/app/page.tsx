@@ -7,7 +7,7 @@ export default function Home() {
       <div className="flex">
         <a href="/">
         <Image className="m-10 hover:invert duration-500 shadow-[0_20px_50px_rgba(0,_0,_0,_0.7)]"
-          src="/z.png"
+          src="/Z.png"
           alt="Zeno Logo"
           width={120}
           height={37}
